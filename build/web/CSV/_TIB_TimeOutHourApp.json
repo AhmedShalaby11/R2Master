@@ -1,0 +1,19 @@
+{
+  "cols": [
+        {"id":"","label":"app","pattern":"","type":"string"},
+        {"id":"","label":"id","pattern":"","type":"number"}],"rows": [
+{"c":[{"v":"SUBSCRIPTIONMANAGEMENT","f":null},{"v":1,"f":1}]},
+{"c":[{"v":"PAYMENTS_GATEWAY_ENG","f":null},{"v":2,"f":2}]},
+{"c":[{"v":"EVENTREFERENCE","f":null},{"v":5,"f":5}]},
+{"c":[{"v":"MIP","f":null},{"v":5,"f":5}]},
+{"c":[{"v":"CUSTOMERCAREGET","f":null},{"v":1,"f":1}]},
+{"c":[{"v":"ODS","f":null},{"v":1,"f":1}]},
+{"c":[{"v":"CUSTOMERCAREWRITE_SR","f":null},{"v":4,"f":4}]},
+{"c":[{"v":"CALLHISTORY_ENG","f":null},{"v":1,"f":1}]},
+{"c":[{"v":"CUSTOMERCAREWRITEWSII","f":null},{"v":12,"f":12}]},
+{"c":[{"v":"SERVICES_ENG","f":null},{"v":2,"f":2}]},
+{"c":[{"v":"CUSTOMERCAREWRITE_ENG","f":null},{"v":4,"f":4}]},
+{"c":[{"v":"SIEBLEVBC","f":null},{"v":2,"f":2}]},
+{"c":[{"v":,"f":null},{"v":,"""f":null}]},
+]
+}
